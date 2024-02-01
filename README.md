@@ -21,3 +21,7 @@
 ### <h3 style="display: inline;">📊 My GitHub Stats </h3><h4 style="display: inline; font-size: smaller;"></h4>
 
 ![Gabriella Vukomanovic](https://github-readme-stats.vercel.app/api?username=GabbyV03&show_icons=true&theme=monokai)
+
+### <h3 style="display: inline;">🗓️ My Top Languages </h3><h4 style="display: inline; font-size: smaller;"></h4>
+
+![Gabriella Vukomanovic](https://github-readme-stats.vercel.app/api/top-langs/?username=GabbyV03&layout=compact&theme=dark)
